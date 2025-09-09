@@ -1,0 +1,10 @@
+C:\Users\laboratorio_BV\Documents\Gestión de Estudiantes con Promedio\Gestión de Estudiantes con Promedio\bin\Debug\Gestión de Estudiantes con Promedio.exe.config
+C:\Users\laboratorio_BV\Documents\Gestión de Estudiantes con Promedio\Gestión de Estudiantes con Promedio\bin\Debug\Gestión de Estudiantes con Promedio.exe
+C:\Users\laboratorio_BV\Documents\Gestión de Estudiantes con Promedio\Gestión de Estudiantes con Promedio\bin\Debug\Gestión de Estudiantes con Promedio.pdb
+C:\Users\laboratorio_BV\Documents\Gestión de Estudiantes con Promedio\Gestión de Estudiantes con Promedio\obj\Debug\Gestión de Estudiantes con Promedio.csproj.AssemblyReference.cache
+C:\Users\laboratorio_BV\Documents\Gestión de Estudiantes con Promedio\Gestión de Estudiantes con Promedio\obj\Debug\Gestión_de_Estudiantes_con_Promedio.Form1.resources
+C:\Users\laboratorio_BV\Documents\Gestión de Estudiantes con Promedio\Gestión de Estudiantes con Promedio\obj\Debug\Gestión_de_Estudiantes_con_Promedio.Properties.Resources.resources
+C:\Users\laboratorio_BV\Documents\Gestión de Estudiantes con Promedio\Gestión de Estudiantes con Promedio\obj\Debug\Gestión de Estudiantes con Promedio.csproj.GenerateResource.cache
+C:\Users\laboratorio_BV\Documents\Gestión de Estudiantes con Promedio\Gestión de Estudiantes con Promedio\obj\Debug\Gestión de Estudiantes con Promedio.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio_BV\Documents\Gestión de Estudiantes con Promedio\Gestión de Estudiantes con Promedio\obj\Debug\Gestión de Estudiantes con Promedio.exe
+C:\Users\laboratorio_BV\Documents\Gestión de Estudiantes con Promedio\Gestión de Estudiantes con Promedio\obj\Debug\Gestión de Estudiantes con Promedio.pdb
